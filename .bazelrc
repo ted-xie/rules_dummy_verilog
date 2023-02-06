@@ -1,1 +1,1 @@
---enable_bzlmod
+common --enable_bzlmod

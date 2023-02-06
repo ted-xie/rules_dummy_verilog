@@ -1,1 +1,1 @@
-workspace("rules_dummy_verilog")
+workspace(name = "rules_dummy_verilog")
